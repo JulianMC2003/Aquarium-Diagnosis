@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fish Disease Predictor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="welcome-overlay">
+        <div id="welcome-message">Fish Disease Diagnosis Tool</div>
+        <div id="author-message">By Robert Julian McCallum</div>
+    </div>
+    <div id="fish-container">
+        <img id="fish-img" src="fish.png" alt="Fish" />
+    </div>
+    <div id="form-container">
+        <form id="symptom-form" style="width:100%;">
+            <input 
+                type="text" 
+                id="symptoms" 
+                name="symptoms" 
+                required 
+                placeholder="Input the symptoms of the fish." 
+            >
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result"></div>
+        <div id="output-overlay" class="hidden">
+        <div id="output-content">
+        <div id="output-result"></div>
+        <button id="close-output">Close</button>
+    </div>
+</div>
+    </div>
+    <script>
+    window.onload = function() {
+    setTimeout(function() {
+        // Fade in author message after 1.5s
+        const authorMsg = document.getElementById('author-message');
+        authorMsg.style.opacity = '1';
+        // After 1.5s more, fade out overlay
+        setTimeout(function() {
+            const overlay = document.getElementById('welcome-overlay');
+            overlay.style.opacity = '0';
+            setTimeout(() => overlay.style.display = 'none', 600);
+        }, 2500);
+    }, 2500);
+};
+
+    // form submission
+    document.getElementById('symptom-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const symptoms = document.getElementById('symptoms').value;
+        fetch('http://127.0.0.1:8000/predict', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ symptoms })
+        })
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('output-result').innerText = data;
+            document.getElementById('output-overlay').classList.remove('hidden');
+        })
+        .catch(() => {
+            document.getElementById('output-result').innerText = "Error connecting to server.";
+            document.getElementById('output-overlay').classList.remove('hidden');
+        });
+    });
+
+    // close output
+    document.getElementById('close-output').addEventListener('click', function() {
+        document.getElementById('output-overlay').classList.add('hidden');
+        document.getElementById('output-result').innerText = '';
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,417 @@
+[
+  {
+    "Disease / Syndrome": "Ich (Ichthyophthirius multifiliis)",
+    "Common Symptoms": "White spots; flashing; clamped fins; respiratory distress; lethargy",
+    "Common Treatment Options": "Raise temp gradually (to 82–86°F/28–30°C) if species-tolerant; salted baths; malachite green + formalin; copper-based meds (chelated copper); improve aeration; treat whole tank; continue 3–7 days after last spot"
+  },
+  {
+    "Disease / Syndrome": "Velvet (Oodinium/Piscinoodinium)",
+    "Common Symptoms": "Fine gold/rust ‘dust’; flashing; rapid gill movements; clamped fins; photosensitivity",
+    "Common Treatment Options": "Darken tank; copper-based meds; formalin; raise temp if tolerated; salt baths; improve water quality"
+  },
+  {
+    "Disease / Syndrome": "Costia (Ichthyobodo)",
+    "Common Symptoms": "Excess slime coat; frayed fins; lethargy; flashing; skin haze; respiratory distress",
+    "Common Treatment Options": "Formalin baths; salt; malachite green; improved water quality; increased aeration"
+  },
+  {
+    "Disease / Syndrome": "Chilodonella",
+    "Common Symptoms": "Bluish skin film; clamped fins; labored breathing; lethargy; flashing",
+    "Common Treatment Options": "Formalin; salt; malachite green; improve hygiene and filtration"
+  },
+  {
+    "Disease / Syndrome": "Trichodina",
+    "Common Symptoms": "Irritation; flashing; excess mucus; frayed fins; increased gill movement",
+    "Common Treatment Options": "Formalin; salt; potassium permanganate dip; improve water quality"
+  },
+  {
+    "Disease / Syndrome": "Epistylis (ciliate on skin)",
+    "Common Symptoms": "White tufts that do not scrape off easily; lethargy; secondary ulcers",
+    "Common Treatment Options": "Improve water quality; treat with antibiotics for secondary bacteria (kanamycin + nitrofurazone); salt; reduce organics"
+  },
+  {
+    "Disease / Syndrome": "Tetrahymena (skin/gill parasite)",
+    "Common Symptoms": "Skin erosion; lethargy; flashing; mortality in fry",
+    "Common Treatment Options": "Formalin; salt; improved sanitation; separate affected fry"
+  },
+  {
+    "Disease / Syndrome": "Skin flukes (Gyrodactylus)",
+    "Common Symptoms": "Flashing; clamped fins; excess mucus; frayed fins",
+    "Common Treatment Options": "Praziquantel; formalin; salt; repeat dosing for life cycle"
+  },
+  {
+    "Disease / Syndrome": "Gill flukes (Dactylogyrus)",
+    "Common Symptoms": "Rapid breathing; gill irritation; one gill closed; flashing; anorexia",
+    "Common Treatment Options": "Praziquantel; formalin; increased aeration; repeat after 5–7 days"
+  },
+  {
+    "Disease / Syndrome": "Anchor worm (Lernaea)",
+    "Common Symptoms": "Green/white threads embedded in skin; ulcers; flashing; secondary infection",
+    "Common Treatment Options": "Manual removal under sedation; antiseptic dip; dimilin (diflubenzuron) or lufenuron; treat whole tank; antibiotics for ulcers"
+  },
+  {
+    "Disease / Syndrome": "Fish lice (Argulus)",
+    "Common Symptoms": "Disc-like parasites visible; red sores; flashing; lethargy",
+    "Common Treatment Options": "Manual removal; dimilin or trichlorfon (use with caution); salt baths; quarantine"
+  },
+  {
+    "Disease / Syndrome": "Leeches (Piscicola)",
+    "Common Symptoms": "Attached worms; blood loss; weakness",
+    "Common Treatment Options": "Manual removal; salt baths; potassium permanganate dip; sanitize décor"
+  },
+  {
+    "Disease / Syndrome": "Camallanus (red intestinal nematodes)",
+    "Common Symptoms": "Red threadlike worms protruding from vent; weight loss despite eating",
+    "Common Treatment Options": "Levamisole HCl or flubendazole; thorough gravel vacuuming; repeat after 1–2 weeks"
+  },
+  {
+    "Disease / Syndrome": "Capillaria (intestinal nematodes)",
+    "Common Symptoms": "Wasting; white stringy feces; poor growth",
+    "Common Treatment Options": "Levamisole or fenbendazole; medicated food; repeat dosing"
+  },
+  {
+    "Disease / Syndrome": "Cestodes (tapeworms)",
+    "Common Symptoms": "Wasting; white segments in feces; distended belly in some cases",
+    "Common Treatment Options": "Praziquantel (in food or water); repeat dosing; clean substrate"
+  },
+  {
+    "Disease / Syndrome": "Acanthocephalans (thorny-headed worms)",
+    "Common Symptoms": "Lethargy; wasting; abdominal swelling",
+    "Common Treatment Options": "Levamisole or praziquantel (species-dependent); sanitation; remove intermediate hosts"
+  },
+  {
+    "Disease / Syndrome": "Columnaris (Flavobacterium columnare)",
+    "Common Symptoms": "Cottony patches around mouth/gills; saddleback lesions; fin erosion; rapid onset",
+    "Common Treatment Options": "Increase aeration; reduce temp to low–mid 70s°F if tropical; kanamycin + nitrofurazone; oxytetracycline; salt; improve water quality"
+  },
+  {
+    "Disease / Syndrome": "Fin rot (mixed Gram−/Gram+)",
+    "Common Symptoms": "Fraying/fins disintegrate; red/white edges; lethargy; fin decay",
+    "Common Treatment Options": "Water changes; remove stressors; broad-spectrum antibacterials (kanamycin, nitrofurazone, erythromycin); salt baths"
+  },
+  {
+    "Disease / Syndrome": "Mouth ‘fungus’ (actually bacterial)",
+    "Common Symptoms": "White fuzzy growth around mouth; difficulty eating",
+    "Common Treatment Options": "Kanamycin or oxytetracycline; nitrofurazone; improve water quality"
+  },
+  {
+    "Disease / Syndrome": "Aeromonas/Pseudomonas septicemia",
+    "Common Symptoms": "Red streaks in fins; hemorrhagic sores; ulcers; lethargy; dropsy",
+    "Common Treatment Options": "Broad-spectrum antibiotics (kanamycin, oxytetracycline); medicated food; water quality correction; salt support"
+  },
+  {
+    "Disease / Syndrome": "Furunculosis (Aeromonas salmonicida)",
+    "Common Symptoms": "Boil-like ulcers; darkening; lethargy; mortality",
+    "Common Treatment Options": "Oxytetracycline; potentiated sulfonamides; improve hygiene; quarantine"
+  },
+  {
+    "Disease / Syndrome": "Bacterial gill disease",
+    "Common Symptoms": "Mucus on gills; rapid breathing; clamped fins; hypoxia",
+    "Common Treatment Options": "Reduce organics; improve flow and aeration; formalin (if parasitic co-infection); antibiotics as indicated"
+  },
+  {
+    "Disease / Syndrome": "Popeye (exophthalmia)",
+    "Common Symptoms": "Swollen eye(s); cloudy eye; may be unilateral or bilateral",
+    "Common Treatment Options": "Check trauma and water quality; Epsom-salt baths; treat underlying bacterial infection (kanamycin) if present"
+  },
+  {
+    "Disease / Syndrome": "Hole-in-the-Head / Head & Lateral Line Erosion (HLLE)",
+    "Common Symptoms": "Pitting lesions on head/along lateral line; erosion; lethargy",
+    "Common Treatment Options": "Improve water quality; varied vitamin-rich diet; activated carbon removal; metronidazole if Hexamita suspected; add vitamins (C, D)"
+  },
+  {
+    "Disease / Syndrome": "Tuberculosis (Mycobacteriosis)",
+    "Common Symptoms": "Chronic wasting; spinal deformity; ulcers; non-healing lesions",
+    "Common Treatment Options": "No reliably safe aquarium cure; cull/quarantine affected; strict hygiene; zoonotic caution (gloves)"
+  },
+  {
+    "Disease / Syndrome": "True fungus / Saprolegnia (cotton wool disease)",
+    "Common Symptoms": "White/gray cotton-like tufts on skin/eggs; follows injury or poor water",
+    "Common Treatment Options": "Methylene blue; malachite green; salt baths; improve water quality; remove dead tissue/eggs"
+  },
+  {
+    "Disease / Syndrome": "Egg fungus (Saprolegnia on eggs)",
+    "Common Symptoms": "White fuzz on eggs; eggs turning opaque",
+    "Common Treatment Options": "Methylene blue bath; gentle aeration over eggs; remove dead eggs"
+  },
+  {
+    "Disease / Syndrome": "Lymphocystis (Iridovirus)",
+    "Common Symptoms": "Cauliflower-like white nodules on fins/skin; usually self-limiting",
+    "Common Treatment Options": "No direct cure; isolate to prevent fin-nipping; enhance water quality/nutrition; time"
+  },
+  {
+    "Disease / Syndrome": "Koi Herpesvirus (KHV)",
+    "Common Symptoms": "Severe gill necrosis; sunken eyes; erratic swimming; high mortality in koi/carp",
+    "Common Treatment Options": "No aquarium cure; immediate quarantine; supportive care; report per local regulations; biosecurity"
+  },
+  {
+    "Disease / Syndrome": "Spring Viremia of Carp (SVC)",
+    "Common Symptoms": "Lethargy; darkening; hemorrhages; ascites; high mortality",
+    "Common Treatment Options": "No cure; reportable; strict biosecurity; disinfection; culling as advised"
+  },
+  {
+    "Disease / Syndrome": "Carp pox (Cyprinid herpesvirus-1)",
+    "Common Symptoms": "Waxy, candle-wax-like plaques; worse in cool temps",
+    "Common Treatment Options": "No cure; improve environment; often resolves with warmth; avoid trauma"
+  },
+  {
+    "Disease / Syndrome": "Ammonia poisoning",
+    "Common Symptoms": "Red/inflamed gills; gasping at surface; lethargy; death",
+    "Common Treatment Options": "Immediate large water changes; detoxifier (e.g., sodium thiosulfate for chloramine-treated water); stop feeding; add biofilter media; monitor NH₃/NH₄⁺"
+  },
+  {
+    "Disease / Syndrome": "Nitrite poisoning (brown blood disease)",
+    "Common Symptoms": "Gasping; brown gills; lethargy; piping at surface",
+    "Common Treatment Options": "Large water changes; add chloride (aquarium salt) to block nitrite uptake; improve biofiltration; aerate strongly"
+  },
+  {
+    "Disease / Syndrome": "Nitrate shock/stress",
+    "Common Symptoms": "Lethargy; poor color; fin erosion; susceptibility to disease",
+    "Common Treatment Options": "Gradual water changes; reduce feeding/stocking; live plants; maintain nitrates <20–40 ppm depending on species"
+  },
+  {
+    "Disease / Syndrome": "pH shock (acid/alkaline shock)",
+    "Common Symptoms": "Rapid breathing; erratic swimming; collapse after water change",
+    "Common Treatment Options": "Stabilize pH slowly; match new water parameters; use buffers where appropriate; drip acclimate"
+  },
+  {
+    "Disease / Syndrome": "Chlorine/chloramine poisoning",
+    "Common Symptoms": "Gasping; inflamed gills; sudden deaths after water changes",
+    "Common Treatment Options": "Immediate dechlorination with conditioner; vigorous aeration; partial water replacement with treated water"
+  },
+  {
+    "Disease / Syndrome": "Low dissolved oxygen / hypoxia",
+    "Common Symptoms": "Gasping at surface; congregating near filter outflow; lethargy",
+    "Common Treatment Options": "Increase aeration and surface agitation; reduce temperature; reduce stocking and feeding; clean filters"
+  },
+  {
+    "Disease / Syndrome": "Gas bubble disease",
+    "Common Symptoms": "Bubbles under skin/eyes/fins; sudden distress after water change",
+    "Common Treatment Options": "Degas water; reduce pressure; increase aeration; correct venturi issues; hold-off large cold water changes"
+  },
+  {
+    "Disease / Syndrome": "Temperature shock (hot/cold)",
+    "Common Symptoms": "Rapid breathing; loss of equilibrium; color darkening",
+    "Common Treatment Options": "Adjust temperature gradually; use heater/chiller; avoid large swings"
+  },
+  {
+    "Disease / Syndrome": "Heavy metal toxicity (copper, zinc)",
+    "Common Symptoms": "Gasping; lethargy; sudden deaths; inverts dying",
+    "Common Treatment Options": "Use water conditioner that chelates metals; remove source; activated carbon/Poly-Filter; partial water changes"
+  },
+  {
+    "Disease / Syndrome": "Swim bladder disorder (syndrome)",
+    "Common Symptoms": "Buoyancy issues: floating, sinking, rolling; difficulty maintaining position",
+    "Common Treatment Options": "Fast 24–48h; feed shelled peas/fiber for herbivores; check water; treat underlying infection with broad-spectrum antibiotics if indicated; reduce flow"
+  },
+  {
+    "Disease / Syndrome": "Fatty liver / obesity",
+    "Common Symptoms": "Lethargy; enlarged abdomen; poor spawning",
+    "Common Treatment Options": "Reduce high-fat foods; increase variety; fasting days; improve exercise (current/space)"
+  },
+  {
+    "Disease / Syndrome": "Thiaminase-induced deficiency (predominantly from raw feeder fish)",
+    "Common Symptoms": "Neurologic signs; anorexia; wasting",
+    "Common Treatment Options": "Stop thiaminase-rich foods; add vitamin B1 supplement; use quality pellets/frozen diets"
+  },
+  {
+    "Disease / Syndrome": "Nutritional vitamin C deficiency",
+    "Common Symptoms": "Poor wound healing; skeletal deformities; lethargy",
+    "Common Treatment Options": "Use fresh, vitamin-stabilized foods; supplement vitamins; vary diet"
+  },
+  {
+    "Disease / Syndrome": "Mechanical trauma (net/fight injury)",
+    "Common Symptoms": "Torn fins; abrasions; ulcers",
+    "Common Treatment Options": "Isolate; pristine water; salt baths; antiseptic dips; treat secondary infections if present"
+  },
+  {
+    "Disease / Syndrome": "Malawi bloat (cichlids)",
+    "Common Symptoms": "Swollen belly; stringy feces; lethargy; loss of appetite",
+    "Common Treatment Options": "Improve water quality; reduce protein for herbivores; metronidazole + epsom-salt baths; add fiber/spirulina"
+  },
+  {
+    "Disease / Syndrome": "Brooklynella (marine clownfish disease)",
+    "Common Symptoms": "Heavy slime; rapid breathing; lethargy; skin sloughing",
+    "Common Treatment Options": "Formalin baths; freshwater dips (for marine); improved aeration; quarantine"
+  },
+  {
+    "Disease / Syndrome": "Marine velvet (Amyloodinium)",
+    "Common Symptoms": "Fine dusting; rapid mortality; gill damage",
+    "Common Treatment Options": "Copper/chloroquine in QT; freshwater/formalin dips; blackout; aggressive aeration; fallow display 6–8 weeks"
+  },
+  {
+    "Disease / Syndrome": "Uronema (marine)",
+    "Common Symptoms": "Red sores; rapid tissue loss (chromis/damsels)",
+    "Common Treatment Options": "Formalin baths; metronidazole; improved hygiene; low organics"
+  },
+  {
+    "Disease / Syndrome": "Head and lateral line erosion in marine (HLLE)",
+    "Common Symptoms": "Pitting around head; lateral line erosion (tangs/angels)",
+    "Common Treatment Options": "Improve diet (nori, vitamins); remove carbon dust; pristine water; reduce stress"
+  },
+  {
+    "Disease / Syndrome": "Gill hyperplasia (ammonia/chlorine injury)",
+    "Common Symptoms": "Thickened gills; rapid breathing; reduced activity",
+    "Common Treatment Options": "Correct water quality; strong aeration; time; minimize irritants"
+  },
+  {
+    "Disease / Syndrome": "Carassius ‘slime disease’ (protozoal mix)",
+    "Common Symptoms": "Excess mucus; flashing; dull color",
+    "Common Treatment Options": "Formalin-malachite green; salt; improve environment"
+  },
+  {
+    "Disease / Syndrome": "Supersaturation from waterfalls/vents (ponds)",
+    "Common Symptoms": "Bubbles on fins/eyes; lethargy",
+    "Common Treatment Options": "Reduce turbulence; vent source water; add aeration"
+  },
+  {
+    "Disease / Syndrome": "Dropsy / edema syndrome (sign, not disease)",
+    "Common Symptoms": "Pineconing scales; abdominal swelling; lethargy",
+    "Common Treatment Options": "Address cause: water quality first; Epsom-salt baths; broad-spectrum antibiotics (kanamycin + nitrofurazone) if bacterial; peas for constipation"
+  },
+  {
+    "Disease / Syndrome": "Septicemia (systemic infection)",
+    "Common Symptoms": "Red streaks; ulcers; lethargy; darkening; anorexia",
+    "Common Treatment Options": "Broad-spectrum antibiotics (kanamycin/oxytetracycline); medicated food; improve environment"
+  },
+  {
+    "Disease / Syndrome": "Gill necrosis (various causes)",
+    "Common Symptoms": "Portions of gill filaments eroded; hypoxia",
+    "Common Treatment Options": "Identify cause (ammonia, parasites, KHV); targeted treatment; strong aeration"
+  },
+  {
+    "Disease / Syndrome": "Viral nervous necrosis (marine/fry)",
+    "Common Symptoms": "Spinning; loss of balance; high fry mortality",
+    "Common Treatment Options": "No cure; biosecurity; disinfect; cull as advised"
+  },
+  {
+    "Disease / Syndrome": "Cloudy eye (corneal edema/infection)",
+    "Common Symptoms": "Opaque eye; rubbing; reduced vision",
+    "Common Treatment Options": "Epsom-salt baths; treat underlying cause: bacteria (kanamycin), trauma, poor water"
+  },
+  {
+    "Disease / Syndrome": "Gill lamellae fusion (chronic irritants)",
+    "Common Symptoms": "Reduced gas exchange; labored breathing",
+    "Common Treatment Options": "Eliminate irritants; pristine water; time; supportive care"
+  },
+  {
+    "Disease / Syndrome": "Hemorrhagic disease (viral/bacterial complex)",
+    "Common Symptoms": "Red patches; bleeding fins; lethargy",
+    "Common Treatment Options": "Water quality; broad-spectrum antibiotics if bacterial; quarantine; biosecurity"
+  },
+  {
+    "Disease / Syndrome": "White feces (flagellates/stress)",
+    "Common Symptoms": "Stringy white feces; anorexia",
+    "Common Treatment Options": "Metronidazole (in food/water); improve diet; reduce stressors"
+  },
+  {
+    "Disease / Syndrome": "Internal flagellates (Hexamita/Spironucleus)",
+    "Common Symptoms": "Weight loss; pale stringy feces; hollow belly",
+    "Common Treatment Options": "Metronidazole (medicated food); vitamins; improved water quality"
+  },
+  {
+    "Disease / Syndrome": "Skin ulcers (mixed etiology)",
+    "Common Symptoms": "Open sores; red edges; sloughing tissue",
+    "Common Treatment Options": "Topical antiseptics (povidone-iodine dips short); antibiotics; salt; clean water"
+  },
+  {
+    "Disease / Syndrome": "Cotton mouth (Columnaris variant)",
+    "Common Symptoms": "Cottony growth around mouth; erosion",
+    "Common Treatment Options": "Kanamycin + nitrofurazone; lower temp slightly; increase aeration; reduce organics"
+  },
+  {
+    "Disease / Syndrome": "Black spot disease (Neascus metacercariae – pond fish)",
+    "Common Symptoms": "Small black cysts in skin/fins; usually cosmetic",
+    "Common Treatment Options": "Interrupt snail/bird cycle; reduce snails; no treatment needed in most cases"
+  },
+  {
+    "Disease / Syndrome": "Blue-green algae toxins (cyanotoxins)",
+    "Common Symptoms": "Neurologic signs; sudden death; invertebrates affected",
+    "Common Treatment Options": "Immediate large water changes; activated carbon; remove algae; UV sterilization"
+  },
+  {
+    "Disease / Syndrome": "UV light burns (overexposure)",
+    "Common Symptoms": "irritation; avoidance of light",
+    "Common Treatment Options": "Reduce UV intensity; shield; provide shade; recover in dim light"
+  },
+  {
+  "Disease / Syndrome": "Marine Ich (Cryptocaryon irritans)",
+  "Common Symptoms": "Small white cysts on skin, fins, and gills; scratching against objects; rapid breathing; flashing; lethargy; loss of appetite",
+  "Common Treatment Options": "Copper-based medications (chelated copper or chloroquine phosphate) in a quarantine tank; freshwater dips (short duration); maintain fallow display tank for 6–8 weeks to break parasite cycle; improve aeration; do not use copper in reef tanks with invertebrates"
+  },
+  {
+    "Disease / Syndrome": "Oodinium pillularis (brackish)",
+    "Common Symptoms": "Dust-like coating; gill irritation",
+    "Common Treatment Options": "Copper-based treatment; darken tank; quarantine"
+  },
+  {
+    "Disease / Syndrome": "Skeletal deformities (chronic)",
+    "Common Symptoms": "Curved spine; poor swimming; often genetic/nutritional",
+    "Common Treatment Options": "Improve broodstock nutrition; avoid inbreeding; cull severe cases"
+  },
+  {
+    "Disease / Syndrome": "Gill ammonia burn (acute)",
+    "Common Symptoms": "Bright red gills; gasping; surface piping",
+    "Common Treatment Options": "Massive water changes; Prime or similar detoxifier; heavy aeration; seed biofilter"
+  },
+  {
+    "Disease / Syndrome": "Metallic sheen/‘slime coat’ overproduction",
+    "Common Symptoms": "Skin haze; dull colors; flashing",
+    "Common Treatment Options": "Eliminate irritants; use salt; improve water quality; carbon to remove contaminants"
+  },
+  {
+    "Disease / Syndrome": "White edge disease in tetras (bacterial)",
+    "Common Symptoms": "White edging on fins; fraying; lethargy",
+    "Common Treatment Options": "Antibacterials (erythromycin/kanamycin); water changes; reduce stress"
+  },
+  {
+    "Disease / Syndrome": "Neon tetra disease (Pleistophora hyphessobryconis)",
+    "Common Symptoms": "Color loss; restlessness; spinal curvature; cysts; mortality",
+    "Common Treatment Options": "No cure; remove affected fish; disinfect; avoid cross-contamination"
+  },
+  {
+    "Disease / Syndrome": "Plistophora/‘false NTD’ (microsporidia/other)",
+    "Common Symptoms": "Similar to NTD; slower progression",
+    "Common Treatment Options": "No reliable cure; quarantine/cull; biosecurity"
+  },
+  {
+    "Disease / Syndrome": "Seawater osmotic shock (freshwater dips too long)",
+    "Common Symptoms": "Listless; loss of equilibrium; mucous sloughing",
+    "Common Treatment Options": "Return to correct salinity; strong aeration; reduce dip duration next time"
+  },
+  {
+    "Disease / Syndrome": "Osmotic stress—low hardness/low electrolytes",
+    "Common Symptoms": "Clamped fins; stress; poor color (livebearers)",
+    "Common Treatment Options": "Add GH/KH; use remineralizers; crushed coral; steady parameters"
+  },
+  {
+    "Disease / Syndrome": "Livebearer pregnancy complications (dystocia)",
+    "Common Symptoms": "Straining; swelling; lethargy",
+    "Common Treatment Options": "Reduce stress; isolate; add gentle salt; maintain pristine water; veterinary intervention if needed"
+  },
+  {
+    "Disease / Syndrome": "Egg-binding (oviparous species)",
+    "Common Symptoms": "Swollen belly; rapid breathing; lethargy",
+    "Common Treatment Options": "Increase temperature within tolerance; gentle current; provide spawning sites; vet care if severe"
+  },
+  {
+    "Disease / Syndrome": "White spot (Piscinoodinium in brackish/marine)",
+    "Common Symptoms": "Fine dust; scratching; rapid respiration",
+    "Common Treatment Options": "Copper/chloroquine in QT; blackout; increase aeration; fallow protocol"
+  },
+  {
+    "Disease / Syndrome": "Bacterial coldwater disease (Flavobacterium psychrophilum)",
+    "Common Symptoms": "Tail rot; ulcers in cool water species",
+    "Common Treatment Options": "Oxytetracycline; improved sanitation; temperature management"
+  },
+  {
+    "Disease / Syndrome": "Saddleback lesion (Columnaris sign)",
+    "Common Symptoms": "White/gray saddle across back near dorsal fin",
+    "Common Treatment Options": "Kanamycin + nitrofurazone; reduce temp; strong aeration; low organics"
+  },
+  {
+    "Disease / Syndrome": "Saprolegniasis post-spawning",
+    "Common Symptoms": "Fungal tufts on injured areas after spawning",
+    "Common Treatment Options": "Methylene blue; salt; gentle antiseptics; pristine water"
+  }
+]

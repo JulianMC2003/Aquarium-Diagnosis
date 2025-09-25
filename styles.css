@@ -1,0 +1,153 @@
+body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #e0f7fa;
+    font-family: Arial, sans-serif;
+}
+
+#fish-container {
+    width: 40%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+#fish-img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 225px auto;
+    border-radius: 16px;
+    object-fit: contain;
+}
+
+
+#form-container {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+label {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 95%;
+    height: 60%;
+    font-size: 1.2em;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid #00796b;
+    border-radius: 10px;
+    background: #ffffff;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 1em;
+    background: #00796b;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #004d40;
+}
+
+#result {
+    margin-top: 20px;
+    white-space: pre-line;
+    font-size: 1.1em;
+    color: #00695c;
+}
+
+#welcome-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: #fff; /* or your main background color */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    transition: opacity 0.6s;
+    z-index: 1000;
+}
+
+#welcome-message,
+#author-message {
+    font-family: inherit;
+    font-size: 2em;
+    color: #004d40;
+    text-align: center;
+    margin: 0.2em 0;
+}
+
+#author-message {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+#output-overlay {
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: #e0f7fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease, visibility 0.5s;
+    z-index: 1000;
+}
+#output-overlay:not(.hidden) {
+    opacity: 1;
+    visibility: visible;
+}
+.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+#output-content {
+    background: #fff;
+    padding: 32px 40px;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    text-align: center;
+    min-width: 320px;
+    max-width: 80vw;
+}
+
+#output-result {
+    font-size: 1.2em;
+    color: #00796b;
+    margin-bottom: 24px;
+    white-space: pre-line;
+}
+
+#close-output {
+    padding: 10px 24px;
+    font-size: 1em;
+    background: #00796b;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 8px;
+    transition: opacity 0.6s ease;
+}
+
+#close-output:hover {
+    background: #004d40;
+}
